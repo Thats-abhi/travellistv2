@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thats-abhi/travellistv2.git/static/css/main.988a526d.css",
+    "main.js": "/thats-abhi/travellistv2.git/static/js/main.412951a9.js",
+    "index.html": "/thats-abhi/travellistv2.git/index.html",
+    "main.988a526d.css.map": "/thats-abhi/travellistv2.git/static/css/main.988a526d.css.map",
+    "main.412951a9.js.map": "/thats-abhi/travellistv2.git/static/js/main.412951a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.988a526d.css",
+    "static/js/main.412951a9.js"
+  ]
+}
